@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+
+  scroll-behavior: smooth;
+}
+
+.fondo{
+  background: linear-gradient(90deg, #2c296a , rgba(55, 37, 70, 8) );
+ 
+}
+
+.tamaño{
+  width: 38%;
+}
+
+.familia{
+  font-family: 'Akaya Kanadaka', cursive;
+}
+
+
+
+.degradado2{
+background: linear-gradient(50deg, #2c296a , rgba(55, 37, 70, 8) );
+}
+
+
+.colorTituto{
+  color: #433cc2;
+}
+
+.bordes{
+  border: solid transparent 0.1px;
+}
+
+.bordeRendodeado{
+  border-radius:0px 0px 0px 30px ;
+}
+
+.fondoProductos{
+  background: linear-gradient(0deg, #2c296a ,#ffffff );
+
+}
+
+
+
