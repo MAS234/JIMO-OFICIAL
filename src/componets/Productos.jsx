@@ -5,7 +5,7 @@ import Flor from "../assets/flor.png";
 function Productos() {
   return (
     <div
-      className="w-full h-[110vh]  fondoProductos md:mt-0 mt-[30em]"
+      className="w-full md:h-[110vh] h-[130vh]  fondoProductos md:mt-0 mt-[30em]"
       id="productos"
     >
       <div

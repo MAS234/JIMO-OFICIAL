@@ -5,7 +5,7 @@ import Perfumes from "../assets/perfumes.png"
 function Header() {
   return (
     <div>
-        <section className='w-full md:h-[120vh] h-[140vh] fondo'>
+        <section className='w-full md:h-[120vh] h-[150vh] fondo'>
             <MenuHamburguesa/>
 
             <div className='md:flex justify-evenly mt-12'>
