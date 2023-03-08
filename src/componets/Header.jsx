@@ -5,7 +5,7 @@ import Perfumes from "../assets/perfumes.png"
 function Header() {
   return (
     <div>
-        <section className='w-full md:h-[110vh] h-[140vh] fondo'>
+        <section className='w-full md:h-[120vh] h-[140vh] fondo'>
             <MenuHamburguesa/>
 
             <div className='md:flex justify-evenly mt-12'>
@@ -19,6 +19,17 @@ function Header() {
                     <p className='familia text-white text-center md:text-xl text-2xl m-10  '>La fragancia de un perfume es como una nota musical que envuelve y encanta los sentidos.<br/>Bienvenidos a JIMO, nuestro oasis de aromas, donde podrás sumergirte en un mundo de sensaciones y emociones a través de las fragancias. En nuestro local, encontrarás una amplia selección de aceites esenciales, velas, inciensos y otros productos aromáticos y de limpieza de alta calidad. <br/>¡Te esperamos!</p>
                 </div>
             </div>
+
+            <div className="fixed md:ml-[90%] text-white text-5xl" >
+               
+               <a href="inicio">
+               <ion-icon name="caret-up-circle-outline"></ion-icon>
+               </a>
+           
+           </div>  
+           
+
+          
 
         </section>
       

@@ -35,13 +35,10 @@ background: linear-gradient(50deg, #2c296a , rgba(55, 37, 70, 8) );
   border: solid transparent 0.1px;
 }
 
-.bordeRendodeado{
-  border-radius:0px 0px 0px 30px ;
-}
 
 .fondoProductos{
-  background: linear-gradient(0deg, #2c296a ,#ffffff );
-
+  background: linear-gradient(100deg,rgba(55, 37, 70, 8), #2c296a, rgba(55, 37, 70, 8)  );
+  
 }
 
 
