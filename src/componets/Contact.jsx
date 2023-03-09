@@ -9,7 +9,7 @@ function Contact() {
 
         <div className="md:w-[50%] md:h-full h-[70%]" data-aos="fade-up"
                  data-aos-duration="1000">
-          <h1 className="uppercase text-center md:mt-12 mt-28 familia text-indigo-900 text-4xl font-semibold">
+          <h1 className="uppercase text-center md:mt-10 mt-28 familia text-indigo-900 text-4xl font-semibold">
             Comunicate con nosotros
           </h1>
 
@@ -45,7 +45,7 @@ function Contact() {
         </div>
 
         <div className="md:w-[50%] md:h-full h-[70%] color border md:border-none" >
-          <h1 className="text-center  md:mt-5 mt-36 uppercase font-semibold text-4xl text-white familia">
+          <h1 className="text-center  md:mt-10 mt-36 uppercase font-semibold text-4xl text-white familia">
             Ubicacion
           </h1>
 
@@ -53,7 +53,7 @@ function Contact() {
                  data-aos-duration="1000">
             <iframe
               width="500"
-              height="500"
+              height="400"
               id="gmap_canvas"
               src="https://maps.google.com/maps?q=Av. Bartolomé Mitre 541, B1870AAF Avellaneda, Provincia de Buenos Aires&t=&z=14&ie=UTF8&iwloc=&output=embed"
               scrolling="no"
