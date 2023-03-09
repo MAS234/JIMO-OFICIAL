@@ -6,13 +6,14 @@ function Contact() {
   return (
     <div className="w-full md:h-[100vh] h-[150vh] " id="contacto">
       <div className="md:flex h-full" >
-        <div className="md:w-[50%] md:h-full " data-aos="fade-up"
+
+        <div className="md:w-[50%] md:h-full h-[70%]" data-aos="fade-up"
                  data-aos-duration="1000">
-          <h1 className="uppercase text-center mt-12 familia text-indigo-900 text-4xl font-semibold">
+          <h1 className="uppercase text-center md:mt-12 mt-28 familia text-indigo-900 text-4xl font-semibold">
             Comunicate con nosotros
           </h1>
 
-          <div className=" bg-indigo-900  m-20 mt-36 shadow-neutral-700 shadow-xl rounded-lg p-5 ">
+          <div className=" bg-indigo-900  md:m-20 m-10 mt-36  shadow-neutral-700 shadow-xl rounded-lg p-5 ">
             <h1 className="text-center mt-10 uppercase font-semibold text-4xl text-white familia ">
               Contacto
             </h1>
@@ -21,7 +22,7 @@ function Contact() {
               <div className="hover:bg-green-500 duration-200 p-2 rounded-xl cursor-pointer">
                 <a href="#">
                 <img
-                  className="w-32 hover:scale-105 duration-200"
+                  className="md:w-32 w-28 hover:scale-105 duration-200"
                   src={Wapp}
                   alt="wpp"
                 />
@@ -32,7 +33,7 @@ function Contact() {
               <div className="hover:bg-red-500 duration-200 p-2 rounded-xl cursor-pointer">
                 <a href="#">
                 <img
-                  className="w-32 hover:scale-105 duration-200"
+                  className="md:w-32 w-28 hover:scale-105 duration-200"
                   src={Mail}
                   alt="email"
                 />
@@ -43,8 +44,8 @@ function Contact() {
           </div>
         </div>
 
-        <div className="md:w-[50%] md:h-full h-[80%] color border md:border-none" >
-          <h1 className="text-center  md:mt-10 mt-40 uppercase font-semibold text-4xl text-white familia">
+        <div className="md:w-[50%] md:h-full h-[70%] color border md:border-none" >
+          <h1 className="text-center  md:mt-10 mt-36 uppercase font-semibold text-4xl text-white familia">
             Ubicacion
           </h1>
 
