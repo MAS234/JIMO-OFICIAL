@@ -44,7 +44,7 @@ function Contact() {
           </div>
         </div>
 
-        <div className="md:w-[50%] md:h-[100%] h-[70%] color border md:border-none" >
+        <div className="md:w-[50%] md:h-full h-[70%] color border md:border-none" >
           <h1 className="text-center  md:mt-10 mt-36 uppercase font-semibold text-4xl text-white familia">
             Ubicacion
           </h1>
