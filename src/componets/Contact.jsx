@@ -44,7 +44,7 @@ function Contact() {
           </div>
         </div>
 
-        <div className="md:w-[50%] md:h-[100%] h-[70%] color border md:border-none" >
+        <div className="md:w-[50%] md:h-full h-[70%] color border md:border-none" >
           <h1 className="text-center  md:mt-5 mt-36 uppercase font-semibold text-4xl text-white familia">
             Ubicacion
           </h1>
@@ -60,7 +60,7 @@ function Contact() {
             ></iframe>
           </div>
 
-          <p className="familia text-center text-white md:mt-5 mt-10 md:text-xl text-2xl">Av Mitre 541, “Galeria del Sol” Local 18 Avellaneda</p>
+          <p className="familia text-center text-white md:mt-2 mt-10 md:text-xl text-2xl">Av Mitre 541, “Galeria del Sol” Local 18 Avellaneda</p>
         </div>
       </div>
     </div>
