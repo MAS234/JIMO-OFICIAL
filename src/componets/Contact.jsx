@@ -13,7 +13,7 @@ function Contact() {
             Comunicate con nosotros
           </h1>
 
-          <div className=" bg-indigo-900  md:m-20 m-10 mt-36  shadow-neutral-700 shadow-xl rounded-lg p-5 ">
+          <div className=" bg-indigo-900  md:m-20 m-5 mt-36  shadow-neutral-700 shadow-xl rounded-lg p-5 ">
             <h1 className="text-center mt-10 uppercase font-semibold text-4xl text-white familia ">
               Contacto
             </h1>
@@ -44,8 +44,8 @@ function Contact() {
           </div>
         </div>
 
-        <div className="md:w-[50%] md:h-[110%] h-[70%] color border md:border-none" >
-          <h1 className="text-center  md:mt-10 mt-36 uppercase font-semibold text-4xl text-white familia">
+        <div className="md:w-[50%] md:h-[100%] h-[70%] color border md:border-none" >
+          <h1 className="text-center  md:mt-5 mt-36 uppercase font-semibold text-4xl text-white familia">
             Ubicacion
           </h1>
 
