@@ -1,6 +1,5 @@
 import React from "react";
 import Carrusel from "./Carrusel";
-import Flor from "../assets/flor.png";
 
 function Productos() {
   return (
