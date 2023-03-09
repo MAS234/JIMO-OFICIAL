@@ -21,7 +21,7 @@ function AboutMe() {
         </div>
 
         <div className=' w-full h-full  bordeRendodeado'>
-            <div className="flex justify-center items-center m-auto  md:w-96 md:h-96 md:mt-32 w-80 h-80" data-aos="fade-up"
+            <div className="flex justify-center items-center m-auto  md:w-80 md:h-80 md:mt-32 w-80 h-80" data-aos="fade-up"
                  data-aos-duration="1000">
                 <img className="rounded-3xl shadow-2xl md:mt-10" src={Dueños} alt="dueños" />
             </div>
