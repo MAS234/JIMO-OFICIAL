@@ -5,7 +5,7 @@ import Vela from "../assets/velaOficial.png"
 
 function AboutMe() {
   return (
-    <div className='h-[100vh] w-full md:flex ' id="nosotros">
+    <div className='h-[105vh] w-full md:flex ' id="nosotros">
 
         <div className='w-full h-full boder md:border-none'   data-aos="zoom-in" data-aos-duration="2000">
 
