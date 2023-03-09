@@ -12,7 +12,7 @@ function Productos() {
         data-aos="fade-up"
         data-aos-duration="1000"
       >
-        <h1 className="text-center  mt-20 familia text-white   text-6xl uppercase ">
+        <h1 className="text-center  mt-10 familia text-white   text-6xl uppercase ">
           Productos
         </h1>
 
