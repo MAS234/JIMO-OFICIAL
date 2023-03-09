@@ -55,6 +55,14 @@ function Carrusel() {
           <img src={Elefante} />
         </SwiperSlide>
         <SwiperSlide>
+        <p className="text-center text-white">Perfuminas Esotericas</p>
+          <img src={PerfuminasEsotericas}/>
+        </SwiperSlide>
+        <SwiperSlide>
+        <p className="text-center text-white">Perfuminas</p>
+          <img src={Perfuminas}/>
+        </SwiperSlide>
+        <SwiperSlide>
           <p className="text-center text-white">Difusores</p>
           <img src={Difusores} />
         </SwiperSlide>
@@ -90,6 +98,7 @@ function Carrusel() {
         <p className="text-center text-white">Hornito Rosa</p>
           <img src={HornitoRosa}/>
         </SwiperSlide>
+
   
 
       </Swiper>

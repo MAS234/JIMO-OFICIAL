@@ -20,9 +20,9 @@ function Header() {
                 </div>
             </div>
 
-            <div className="fixed md:ml-[90%] text-white text-5xl" >
+            <div className="fixed md:ml-[95%] text-indigo-600 text-5xl" >
                
-               <a href="inicio">
+               <a href="#inicio">
                <ion-icon name="caret-up-circle-outline"></ion-icon>
                </a>
            

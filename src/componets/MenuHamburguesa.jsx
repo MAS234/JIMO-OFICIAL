@@ -5,7 +5,7 @@ function MenuHamburguesa() {
   const [Open, setOpen] = useState(false);
 
   return (
-    <div id="#inicio" className={`navBar ${Open && "open"}`}>
+    <div id="inicio" className={`navBar ${Open && "open"}`}>
       <div className={`items ${Open && "open"}`}>
         <a
           href="#inicio"
@@ -44,7 +44,7 @@ function MenuHamburguesa() {
           Productos
         </a>
         <a
-          href="#"
+          href="#contacto"
           className={
             Open
               ? ""

@@ -26,6 +26,10 @@ html{
 background: linear-gradient(50deg, #2c296a , rgba(55, 37, 70, 8) );
 }
 
+.color{
+  background: linear-gradient(80deg, #2c296a , rgba(55, 37, 70, 8) );
+}
+
 
 .colorTituto{
   color: #433cc2;
@@ -35,11 +39,19 @@ background: linear-gradient(50deg, #2c296a , rgba(55, 37, 70, 8) );
   border: solid transparent 0.1px;
 }
 
+.bordeEspecial{
+  border-radius: 65% 25% 25% 75% / 35% 66% 34% 65%;
+}
+
 
 .fondoProductos{
   background: linear-gradient(100deg,rgba(55, 37, 70, 8), #2c296a, rgba(55, 37, 70, 8)  );
   
 }
+
+
+
+
 
 
 

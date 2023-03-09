@@ -2,6 +2,7 @@ import reactLogo from './assets/react.svg'
 import Header from './componets/Header'
 import AboutMe from './componets/AboutMe'
 import Productos from './componets/Productos'
+import Contact from './componets/Contact'
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <Header/>
       <AboutMe/>
       <Productos/>
+      <Contact/>
 
     </div>
   )
