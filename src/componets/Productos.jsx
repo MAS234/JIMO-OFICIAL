@@ -18,7 +18,7 @@ function Productos() {
 
         <Carrusel />
 
-        <p className="md:mt-3 mt:10  text-white  text-center familia md:text-4xl text-2xl">
+        <p className="md:mt-3 mt:10  text-white  text-center familia md:text-3xl text-2xl">
         Permíteme presentarte una amplia gama de productos aromatizantes que te encantarán.
         </p>
       </div>
